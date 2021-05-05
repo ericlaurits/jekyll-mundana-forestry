@@ -30,6 +30,8 @@ authors:
     email: fakemail@gmail.com
     twitter: https://twitter.com/wowthemesnet
 defaults:
+- scope: ''
+  values: ''
 - scope:
     path: _posts
   values:
